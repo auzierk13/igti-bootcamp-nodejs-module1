@@ -2,11 +2,12 @@
   "name": "aula_module",
   "version": "1.0.0",
   "description": "",
-  "main": "common.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
